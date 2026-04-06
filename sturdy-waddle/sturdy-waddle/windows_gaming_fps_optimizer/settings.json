@@ -1,0 +1,11 @@
+{
+  "optimization_level": "balanced",
+  "target_fps": 60,
+  "max_temperature": 80,
+  "enable_overclock": false,
+  "auto_update_drivers": true,
+  "selected_cpu": "AMD Ryzen 9 3900",
+  "selected_gpu": "AMD RX 5600",
+  "ram_gb": 8,
+  "ram_speed": 3200
+}
