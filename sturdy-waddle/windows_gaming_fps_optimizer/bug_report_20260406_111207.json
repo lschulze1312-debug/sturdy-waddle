@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-04-06T11:12:07.322068",
+  "critical_bugs": [],
+  "warnings": [
+    "\u26a0\ufe0f CPU nicht erkannt"
+  ],
+  "performance_issues": [],
+  "system_info": {
+    "python_version": "3.13.12",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "cpu_count": 16,
+    "memory_total": 16367812608,
+    "memory_available": 3511070720
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "auto_start_monitoring": true,
+  "enable_fsr": true,
+  "default_profile": "balanced",
+  "log_level": "INFO",
+  "performance_mode": "gaming",
+  "show_system_info": true,
+  "enable_auto_optimization": true
+}
