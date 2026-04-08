@@ -1,3 +1,0 @@
-wmi
-psutil
-pywin32
