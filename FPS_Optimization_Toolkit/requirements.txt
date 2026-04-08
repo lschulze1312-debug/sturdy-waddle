@@ -1,0 +1,5 @@
+wmi>=1.5.1
+psutil>=5.9.0
+pywin32>=306
+pillow>=9.0.0
+pyinstaller>=5.13.0
